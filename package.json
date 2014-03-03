@@ -1,0 +1,32 @@
+{
+  "name": "jumbo",
+  "version": "0.0.0",
+  "description": "WIP implementation of hofstadter's jumbo",
+  "main": "jumbo.js",
+  "scripts": {
+    "test": "./node_modules/nodeunit/bin test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eighttrackmind/jumbo.git"
+  },
+  "keywords": [
+    "ai",
+    "hofstadter",
+    "analogies",
+    "relationship",
+    "glom",
+    "spark",
+    "codelet",
+    "intelligence",
+    "artificial",
+    "anagram",
+    "scramble"
+  ],
+  "author": "Boris Cherny <boris@performancejs.com> (http://performancejs.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eighttrackmind/jumbo/issues"
+  },
+  "homepage": "https://github.com/eighttrackmind/jumbo"
+}
